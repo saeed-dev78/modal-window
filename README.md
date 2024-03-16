@@ -10,7 +10,7 @@ best of luck 😎
 
 
 
-🔗 [Demo Project](https://saeeddev-ir.github.io/Dice-game/)
+🔗 [Demo Project](https://saeeddev-ir.github.io/modal-window/)
 
 👨‍💻 Developed by Saeed Abdollahi
 
