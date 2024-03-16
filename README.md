@@ -8,6 +8,7 @@ Hope you like it ❤
 best of luck 😎
 
 
+![modal](https://github.com/saeeddev-ir/modal-window/assets/105293554/bc1b7f93-e31e-47fe-ac67-0eea30d97e4f)
 
 
 🔗 [Demo Project](https://saeeddev-ir.github.io/modal-window/)
