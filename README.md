@@ -8,6 +8,11 @@ Hope you like it ❤
 best of luck 😎
 
 
+
+https://github.com/saeeddev-ir/modal-window/assets/105293554/2e1bbf6e-72ce-47aa-8f55-60852c2f9956
+
+
+
 ![modal](https://github.com/saeeddev-ir/modal-window/assets/105293554/bc1b7f93-e31e-47fe-ac67-0eea30d97e4f)
 
 
